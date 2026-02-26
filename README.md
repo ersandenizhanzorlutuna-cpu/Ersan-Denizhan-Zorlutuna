@@ -47,5 +47,7 @@ AWS (EC2, S3, RDS, VPC) · Docker · Flask
 
 ## 📫 Connect With Me
 E-mail: Ersandenizhanzorlutuna@gmail.com
+
 LinkedIn: linkedin.com/in/ersan-denizhan-zorlutuna-ab83b82b5  
+
 Location: Berlin, Germany
