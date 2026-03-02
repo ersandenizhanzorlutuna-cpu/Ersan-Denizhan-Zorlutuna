@@ -1,6 +1,6 @@
 # Hi, I'm Ersan Denizhan Zorlutuna 
  
-Machine Learning Engineer | Computer Vision | Biomedical AI  
+Machine Learning Engineer | Computer Vision | Biomedical Engineer 
 Berlin, Germany
 
 ---
