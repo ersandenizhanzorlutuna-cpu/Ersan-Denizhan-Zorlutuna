@@ -30,7 +30,7 @@ I specialize in designing, training, and deploying deep learning models for medi
 Python
 
 **Machine Learning**  
-TensorFlow · Keras · Scikit-learn · OpenCV · NumPy · Pandas  
+TensorFlow · Keras · Scikit-learn · OpenCV · NumPy · Pandas ·PyTorch 
 
 **Cloud & Deployment**  
 AWS (EC2, S3, RDS, VPC) · Docker · Flask  
